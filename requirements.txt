@@ -1,0 +1,8 @@
+torch>=1.9
+transformers>=4.6
+datasets>=2.0
+onnx>=1.10
+onnxruntime>=1.10
+tqdm>=4.62
+numpy>=1.18
+scikit-learn>=1.0
